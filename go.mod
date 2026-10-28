@@ -30,7 +30,7 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f // indirect
 	github.com/gorilla/mux v1.6.2
-	github.com/gorilla/websocket v1.4.1
+	github.com/gorilla/websocket v1.5.3
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
 	github.com/graph-gophers/dataloader v0.0.0-20180104184831-78139374585c
 	github.com/graphql-go/graphql v0.7.9-0.20191125031726-2e2b648ecbe4
